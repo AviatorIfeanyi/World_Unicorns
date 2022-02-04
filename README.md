@@ -1,5 +1,5 @@
 
-## An Analysis of the world unicorns
+## An Analysis of the world unicorn companies
 
 <br/>
 
