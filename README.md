@@ -5,7 +5,7 @@
 
 **Introduction**
 
-963 Unicorns across 44 countries with a total market valuation of $3,165bn.
+1000 Unicorns across 44 countries with a total market valuation of $3,307bn.
 
 <br/>
 
@@ -64,7 +64,8 @@ USA dominates in artificial intelligence, fintech, health, internet, software an
   ```
 - Other notable industries worth mentioning include Cybersecurity, supply chain, data management and analysis which respectively has a market valuation above $100bn.
 
-- 2022 seems to be a promising year, as 5 startups have already being elevated to unicorns - USA 1, India 1, United Kingdom 1, Isreal 1, Canada 1. 
+- 2022 seems to be a promising year, as 47 startups have already being elevated to unicorns - 
+ <!-- USA 1, India 1, United Kingdom 1, Isreal 1, Canada 1.  -->
 
 Hence we do hope to see more innovations and solutions in the year 2022
 
@@ -86,4 +87,4 @@ Hence we do hope to see more innovations and solutions in the year 2022
 
 ## Dashboard 
 
-[![Dashborad Link](/World_Unicorns.png)](https://app.powerbi.com/groups/me/reports/53a1c412-78b2-4e5d-b2c6-6141fdf675d2/ReportSection)
+[![Dashborad Link](dashboard_image/World_Unicorns_2.png)](https://app.powerbi.com/groups/me/reports/53a1c412-78b2-4e5d-b2c6-6141fdf675d2/ReportSection)
